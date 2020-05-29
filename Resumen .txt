@@ -2,3 +2,19 @@
 Nombre: David Vega
 NRC: 8665
 Resumen Herramienta Git:
+La herramienta Git a demostrado ser de gran utilidad para tener bien gestionados
+nuestros archivos o protectos y a si poder tener un seguimiento completo sobre los
+cambios que se hagan en cada uno de ellos de una maner completa y eficaz que nos
+facilita llevar el control sobre varios archivos.
+
+En la clase virtual por medio de un ejemplo propuesto , pudimos comprender de 
+mejor manera la utilidad real de la herramienta Git con la creacion de un 
+repositorio local y remoto que a su vez nos sirvio para aprender las bases de
+como funciona Git y como utulizarlo de manera clara y sencilla 
+
+Git no solo sirve o esta orienta a la programacion, ya que esta herramienta es 
+muy versatil y podemas usarla para el resto de materias facilitandonos asi
+el realizar trabajos grupales ya que por medio de esta herramienta todos los
+miembros del grupo tiene acceso a la informacion,proyecto o trabajo que se este
+realizando y asi poder hacer su aportacion al mismo.
+
